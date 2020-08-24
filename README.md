@@ -5,4 +5,4 @@
 2. 支持ListView
 
 # 效果图
-![](https://www.github.com/wslaimin/blog/raw/master/pics/FocusViewGroup.gif)
+![](https://www.github.com/wslaimin/pics/raw/master/FocusViewGroup.gif)
